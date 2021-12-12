@@ -28,4 +28,5 @@
   <a href="https://www.linkedin.com/in/em%C3%ADlio-roberto-5a8115200/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     
     ![Snake animation](https://github.com/M1NH00301/M1NH00301/blob/output/github-contribution-grid-snake.svg)
+  
   </div>
