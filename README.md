@@ -1,8 +1,5 @@
-###  Olá! Eu sou Emílio.
-- 🔭 Trabalho como:
-- 🌱 Estou aprendendo:
-- 📫 Contato:
--->
+###  Olá! tudo bem ?.
+🍁🍁🍁
 
 <div align="center">
   <a href="https://github.com/M1NH00301">
