@@ -1,5 +1,5 @@
 ###  Olá! tudo bem ?.
-🍁🍁🍁
+🍁
 
 <div align="center">
   <a href="https://github.com/M1NH00301">
